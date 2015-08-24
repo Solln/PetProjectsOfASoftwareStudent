@@ -2,7 +2,7 @@ package com.company.Test;
 
 
 import com.company.Main.Main;
-import junit.framework.Assert;
+import org.junit.Assert;
 
 public class MainTest {
 
